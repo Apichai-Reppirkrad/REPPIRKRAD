@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blowfish</title>
+    <link>http://localhost:1313/REPPIRKRAD/categories/</link>
+    <description>Recent content in Categories on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>apichai.ch.g@gmail.com (REPPIRKRAD)</managingEditor>
+    <webMaster>apichai.ch.g@gmail.com (REPPIRKRAD)</webMaster>
+    <copyright>© 2025 REPPIRKRAD</copyright>
+    <atom:link href="http://localhost:1313/REPPIRKRAD/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
